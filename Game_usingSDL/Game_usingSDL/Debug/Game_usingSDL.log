@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\game_usingsdl\game_usingsdl\main.cpp(75): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\game_usingsdl\game_usingsdl\main.cpp(281): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+d:\game_usingsdl\game_usingsdl\main.cpp(286): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+d:\game_usingsdl\game_usingsdl\main.cpp(365): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\game_usingsdl\game_usingsdl\main.cpp(368): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\game_usingsdl\game_usingsdl\main.cpp(371): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\game_usingsdl\game_usingsdl\main.cpp(374): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Game_usingSDL.vcxproj -> D:\Game_usingSDL\Debug\Game_usingSDL.exe
